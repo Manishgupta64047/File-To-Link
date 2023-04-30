@@ -229,14 +229,14 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ :<a href='https://t.me/File_2_Link_4GB_Bot'>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ</a></b>
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ :<a href='https://t.me/mdisk_bots'>BOTZCLUB</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ :<a href='https://t.me/z_harbour'>𝓖𝓾𝓡𝓾</a></b>
-┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
-┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
-┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>Developer:<a href='https://t.me/sigma_male_007'>Dev</a></b>
-┣⪼<b>Site : <a href='https://zharbour.blogspot.com/'>𝓖𝓾𝓡𝓾</a></b>
+┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ :<a href='https://t.me/File_2_Link_4GB_Bot'>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ</a></b>/n
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ :<a href='https://t.me/mdisk_bots'>BOTZCLUB</a></b>/n
+┣⪼<b>sᴜᴘᴘᴏʀᴛ :<a href='https://t.me/z_harbour'>𝓖𝓾𝓡𝓾</a></b>/n
+┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>/n
+┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>/n
+┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>/n
+┣⪼<b>Developer:<a href='https://t.me/sigma_male_007'>Dev</a></b>/n
+┣⪼<b>Site : <a href='https://zharbour.blogspot.com/'>𝓾𝓡</a></b>/n
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
