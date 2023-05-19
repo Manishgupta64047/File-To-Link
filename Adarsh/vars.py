@@ -15,7 +15,7 @@ class Var(object):
     name = str(getenv('SESSION_NAME', 'filetolinkbot'))
     SLEEP_THRESHOLD = int(getenv('SLEEP_THRESHOLD', '60'))
     WORKERS = int(getenv('WORKERS', '4'))
-    BIN_CHANNEL = int(getenv('BIN_CHANNEL','-1001634487274'))
+    BIN_CHANNEL = int(getenv('BIN_CHANNEL','-100920432353'))
     PORT = int(getenv('PORT', 8080))
     BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', ''))
     PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
